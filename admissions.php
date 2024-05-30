@@ -31,7 +31,7 @@
             <div class="content">
                 <h1>Applied Admissions</h1>
 
-                <table border="1px" class="table table-striped">
+                <table border="1px" class="table table-striped" style="width: 75%;">
                     <thead>
                         <tr>
                             <th scope="col" style="padding: 20px; font-size: 15px;">Name</th>
